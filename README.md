@@ -55,10 +55,10 @@ This repository contains solutions to three programming problems assigned as par
 ### Video 1: [Daily Steps Tracker](https://cisuezedu-my.sharepoint.com/:v:/g/personal/fciugs466_ci_suez_edu_eg/ERSaJI2yo7ZBmpqJ7DsQnsMBvt0_eYjHDZAkW3S-F-TPKA?e=S9F4K0)
 - Detailed walkthrough of the solution for the **Daily Steps Tracker** problem.
 
-### Video 2: [Library Book Borrowing Analysis](#)
+### Video 2: [Library Book Borrowing Analysis](https://cisuezedu-my.sharepoint.com/:v:/g/personal/fciugs466_ci_suez_edu_eg/EacWnLy1EKlBtVa2ohBv_HkBFPFA52Bsh5QID6j8BGPG-w?e=XXXXX)
 - Explanation of the solution for the **Library Book Borrowing Analysis** problem.
 
-### Video 3: [Word Scramble Game](#)
+### Video 3: [Word Scramble Game](https://cisuezedu-my.sharepoint.com/:v:/g/personal/fciugs466_ci_suez_edu_eg/ERSaJI2yo7ZBmpqJ7DsQnsMBvt0_eYjHDZAkW3S-F-TPKA?e=S9F4K0)
 - Live coding session and explanation for the **Word Scramble Game**.
 
 ---
@@ -93,8 +93,3 @@ This repository also includes:
   - [Python Random Module Documentation](https://docs.python.org/3/library/random.html)
   - [W3Schools Python Reference](https://www.w3schools.com/python/)
   - [GeeksforGeeks Python Tutorials](https://www.geeksforgeeks.org/python-programming-language/)
-
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
