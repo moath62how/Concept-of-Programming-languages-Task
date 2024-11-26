@@ -55,7 +55,7 @@ This repository contains solutions to three programming problems assigned as par
 ### Video 1: [Daily Steps Tracker](https://cisuezedu-my.sharepoint.com/:v:/g/personal/fciugs466_ci_suez_edu_eg/ERSaJI2yo7ZBmpqJ7DsQnsMBvt0_eYjHDZAkW3S-F-TPKA?e=S9F4K0)
 - Detailed walkthrough of the solution for the **Daily Steps Tracker** problem.
 
-### Video 2: [Library Book Borrowing Analysis]([https://cisuezedu-my.sharepoint.com/:v:/g/personal/fciugs466_ci_suez_edu_eg/EacWnLy1EKlBtVa2ohBv_HkBFPFA52Bsh5QID6j8BGPG-w?e=XXXXX](https://cisuezedu-my.sharepoint.com/:v:/g/personal/fciugs466_ci_suez_edu_eg/EQk5zb1iV0JChroAk3yZhB0BgeqzmDvj56LVzF06V9MRjQ?e=kJPsdl))
+### Video 2: [Library Book Borrowing Analysis]([https://cisuezedu-my.sharepoint.com/:v:/g/personal/fciugs466_ci_suez_edu_eg/EacWnLy1EKlBtVa2ohBv_HkBFPFA52Bsh5QID6j8BGPG-w?e=XXXXX](https://cisuezedu-my.sharepoint.com/:v:/g/personal/fciugs466_ci_suez_edu_eg/EQk5zb1iV0JChroAk3yZhB0BgeqzmDvj56LVzF06V9MRjQ?e=kJPsdl)
 - Explanation of the solution for the **Library Book Borrowing Analysis** problem.
 
 ### Video 3: [Word Scramble Game](https://cisuezedu-my.sharepoint.com/:v:/g/personal/fciugs466_ci_suez_edu_eg/Eadb70lZ-p5NsLnQrw4h5oIBMZkqKf2S05wfbA4kjEIgXA?e=iCWeJz)
